@@ -35,18 +35,23 @@ import SentenceTransformer, util
 sys
 
 NLP Model
+
 sentence-transformers/xlm-r-bert-base-nli-stsb-mean-tokens
 
 Config ngrok
+
 ![image](https://github.com/user-attachments/assets/0e04a736-3e68-4f6d-9ade-7fddc52efc12)
 
 Config selenium
+
 ![image](https://github.com/user-attachments/assets/01c55993-f352-4f8f-b651-faa256adff5b)
 
 Config line
+
 ![image](https://github.com/user-attachments/assets/e4336269-272f-493f-9682-f3822245439a)
 
 ตัวอย่างการทำงาน
+
 ![image](https://github.com/user-attachments/assets/a7bf577b-ba2b-4ac9-8b53-413a20cb63ea)
 ![image](https://github.com/user-attachments/assets/612558a9-4afa-4e80-9af1-f489ca023452)
 ![image](https://github.com/user-attachments/assets/23bda16f-cecb-4a4e-a343-3c7f95616822)
